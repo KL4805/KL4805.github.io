@@ -22,6 +22,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk).
 
 News
 ======
+\[July 2025\] Two co-authored papers have been accepted to **KDD 2025** and **SIGCOMM 2025**. Congratulations!
+
 \[April 2025\] I passed my Ph.D. thesis defense! 
 
 \[September 2024\] Shopping MMLU, the dataset used to organize [Amazon KDD Cup 2024](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms), is accepted at **NeurIPS 2024 Datasets and Benchmarks Track**. Congratulations! 
