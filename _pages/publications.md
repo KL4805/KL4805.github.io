@@ -9,14 +9,19 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 (<sup>\*</sup> indicates equal contribution. )
 
 # Conference Papers
+## 2026
+* **Unlocking Full Efficiency of Token Filtering in Large Language Model Training** <br>
+Di Chai, Pengbo Li, Feiyuan Zhang, **Yilun Jin**, Han Tian, Kaiqiang Xu, Binhang Yuan, Dian Shen, Junxue Zhang, Kai Chen. <br>
+To appear in *the 14th International Conference on Learning Representations (ICLR)*, 2026. 
+
 ## 2025 
 * **MixNet: A Runtime Reconfigurable Optical-Electrical Fabric for Distributed Mixture-of-Experts Training** <br>
 Xudong Liao, Yijun Sun, Han Tian, Xinchen Wan, **Yilun Jin**, Zilong Wang, Zhenghang Ren, Xinyang Huang, Wenxue Li, Kin Fai Tse, Zhizhen Zhong, Guyue Liu, Ying Zhang, Xiaofeng Ye, Yiming Zhang, Kai Chen. <br>
-To appear in *the ACM SIGCOMM 2025 Conference*, 2025. 
+In *the ACM SIGCOMM 2025 Conference*, 2025. 
 
 * **Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services** <br>
 Weiyan Wang, **Yilun Jin**, Yiming Zhang, Victor Junqiu Wei, Han Tian, Li Chen, Jinbao Xue, Yangyu Tao, Di Wang, Kai Chen. <br>
-To appear in *the 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025.
+In *the 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025.
 
 * **Achieving Fairness Generalizability for Learning-based Congestion Control with Jury** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3689031.3696065)\]<br>
 Han Tian, Xudong Liao, Decang Sun, Chaoliang Zeng, **Yilun Jin**, Junxue Zhang, Xinchen Wan, Zilong Wang, Yong Wang, Kai Chen. <br>
